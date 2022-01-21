@@ -24,3 +24,5 @@
 
 •	Чему равно 0 || "" || 2 || undefined || true || falsе ? Ответ: 2
 */
+
+console.log('test')
